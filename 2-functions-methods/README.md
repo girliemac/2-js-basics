@@ -176,7 +176,7 @@ You've now seen we have three ways to pass a function as a parameter and might b
 
 ## Review & Self Study
 
-TODO
+It's worth [reading up a little more on arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions), as they are increasingly used in code bases. Practice writing a function, and then rewriting it with this syntax.
 
 **Assignment**: [Fun with Functions](assignment.md)
 
