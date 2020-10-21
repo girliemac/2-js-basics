@@ -81,7 +81,7 @@ add5(4,2) // returns 6
 
 Any parameters with default values must be at the end of the parameter listing. The reason is that JavaScript tries to match arguments with parameters and parameters with default values can be omitted at invocation. 
 
-🚀 Challenge: TODO
+🚀 Challenge: Can you articulate in one sentence the difference between functions and methods? Give it a try!
 
 ## [Post-lecture quiz](.github/post-lecture-quiz.md)
 
@@ -89,5 +89,5 @@ Any parameters with default values must be at the end of the parameter listing. 
 
 TODO
 
-**Assignment**: [Data Types Practice](assignment.md)
+**Assignment**: [Fun with Functions](assignment.md)
 

@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Play around with operators. Here's a suggestion for a program you can implement
+Play around with operators. Here's a suggestion for a program you can implement:
 
 You have a set of students from two different grading systems.
 

@@ -1,6 +1,6 @@
-*Complete this quiz along with your submission by checking one answer per question.*
+*Complete this quiz by checking one answer per question.*
 
-1. What would the following code return `'1' == 1`
+1. What would the following code return: `'1' == 1`
 
 - [ ] true
 - [ ] false

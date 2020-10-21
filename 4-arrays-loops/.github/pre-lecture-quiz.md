@@ -1,6 +1,6 @@
 *Complete this quiz in class*
 
-1. To refer to specific item in an array, you would use a ...
+1. To refer to specific item in an array, you would use a
 
 - [ ] square bracket `[]`
 - [ ] index

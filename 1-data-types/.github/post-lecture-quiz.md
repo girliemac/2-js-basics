@@ -12,7 +12,7 @@
 - [ ] boolean
 - [ ] star
 
-1. Strings can reside between both single and double quotes
+3. Strings can reside between both single and double quotes
    
 - [ ] true
 - [ ] false
