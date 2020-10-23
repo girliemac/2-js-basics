@@ -170,7 +170,11 @@ setTimeout(3000, () => {
 
 You've now seen we have three ways to pass a function as a parameter and might be wondering when to use each. If you know you'll be using the function more than once, create it as normal. If you'll be using it for just the one location, it's generally best to use an anonymous function. Whether or not you use a fat arrow function or the more traditional `function` syntax is up to you, but you will notice most modern developers prefer `=>`.
 
-🚀 Challenge: Can you articulate in one sentence the difference between functions and methods? Give it a try!
+---
+
+## 🚀 Challenge
+
+Can you articulate in one sentence the difference between functions and methods? Give it a try!
 
 ## [Post-lecture quiz](.github/post-lecture-quiz.md)
 
@@ -178,5 +182,6 @@ You've now seen we have three ways to pass a function as a parameter and might b
 
 It's worth [reading up a little more on arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions), as they are increasingly used in code bases. Practice writing a function, and then rewriting it with this syntax.
 
-**Assignment**: [Fun with Functions](assignment.md)
+## Assignment
 
+[Fun with Functions](assignment.md)

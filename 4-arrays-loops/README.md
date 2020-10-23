@@ -101,7 +101,11 @@ for (let i = 0; i < iceCreamFlavors.length; i++) {
 
 ✅ Experiment with looping over an array of your own making in your browser's console. 
 
-🚀 Challenge: There are other ways of looping over arrays other than for and while loops. There are [forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach), [for-of](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of), and [map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map). Rewrite your array loop using one of these techniques.
+---
+
+## 🚀 Challenge
+
+There are other ways of looping over arrays other than for and while loops. There are [forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach), [for-of](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of), and [map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map). Rewrite your array loop using one of these techniques.
 
 ## [Post-lecture quiz](.github/post-lecture-quiz.md)
 
@@ -109,4 +113,6 @@ for (let i = 0; i < iceCreamFlavors.length; i++) {
 
 Arrays in JavaScript have many methods attached to them, extremely useful for data manipulation. [Read up on these methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) and try some of them out (like push, pop, slice and splice) on an array of your creation.
 
-**Assignment**: [Loop an Array](assignment.md)
+## Assignment
+
+[Loop an Array](assignment.md)

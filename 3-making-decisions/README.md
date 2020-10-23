@@ -149,7 +149,11 @@ if (firstNumber > secondNumber) {
 }
 ```
 
-🚀 Challenge: Create a program that is written first with logical operators, and then rewrite it using a ternary expression. What's your preferred syntax?
+---
+
+## 🚀 Challenge
+
+Create a program that is written first with logical operators, and then rewrite it using a ternary expression. What's your preferred syntax?
 
 ## [Post-lecture quiz](.github/post-lecture-quiz.md)
 
@@ -157,5 +161,6 @@ if (firstNumber > secondNumber) {
 
 Read more about the many operators available to the user [on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators).
 
-**Assignment**: [Operators](assignment.md)
+## Assignment
 
+[Operators](assignment.md)
