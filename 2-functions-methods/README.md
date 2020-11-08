@@ -2,6 +2,9 @@
 
 [![Methods and Functions](https://img.youtube.com/vi/XgKsD6Zwvlc/0.jpg)](https://youtube.com/watch?v=XgKsD6Zwvlc "Methods and Functions")
 
+![JavaScript Basics - Functions](images/webdev101-js-functions.png)
+> Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
+
 ## [Pre-lecture quiz](.github/pre-lecture-quiz.md)
 
 When we think about writing code, we always want to ensure our code is readable. While this sounds counterintuitive, code is read many more times than it's written. One core tool in a developer's toolbox to ensure maintainable code is the **function**.
